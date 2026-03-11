@@ -1,7 +1,5 @@
 # BikerSales
 
-# Biker Sales Dashboard
-
 ## Project Overview
 Analyzed biker sales across three regions: **Europe, North America, and Pacific**, segmented by marital status, education level, and customer demographics to provide insights on sales trends and customer behavior.
 
