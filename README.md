@@ -27,6 +27,6 @@ Analyzed biker sales across three regions: **Europe, North America, and Pacific*
 ## Dashboard Preview
 ![Average Income per purchase](Average Income per purchase.png)
 ![Customer Age Brackets](CustomerAgeBrackets.png)
-![Customer Commut](Customer Commute.png)
+![Customer Commut](CustomerCommute.png)
 ![Bikes Sales Dashboard](Bikes Sales Dashboard.png)
 
