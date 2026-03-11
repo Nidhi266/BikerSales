@@ -22,11 +22,11 @@ Analyzed biker sales across three regions: **Europe, North America, and Pacific*
 - Dashboard Visualization
 
 ## Data Preview
-![bikersales](Biker Sales.xlsx)
+![bikersales](bikersales.png)
 
 ## Dashboard Preview
 ![Average Income per purchase](Average Income per purchase.png)
-![Customer Age Brackets](Customer Age Brackets.png)
+![Customer Age Brackets](CustomerAgeBrackets.png)
 ![Customer Commut](Customer Commute.png)
 ![Bikes Sales Dashboard](Bikes Sales Dashboard.png)
 
